@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/Samuel-Schlemper-Schlemuel/SignWriter.git",
-                    "commit": "726e406f259c0e4680419cbe4a56caf72a78b16f"
+                    "commit": "aa55dd5d305a139c7765e7f6d3b57eaf04b3e837"
                 }
             ]
         }
